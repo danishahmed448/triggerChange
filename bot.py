@@ -17,4 +17,4 @@ async def on_message(message):
 			await message.channel.send("Please Wait")
 
 
-client.run(str(os.environ.get('NTg1MTQ3NTQzNDg3NTEyNTg3.XPVPKA.gkk-nHaMivJ1NS07AgtQsvlzKxo')))
+client.run(str(os.environ.get('BOT_TOKEN')))
